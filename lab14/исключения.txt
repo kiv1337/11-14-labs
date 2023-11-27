@@ -1,0 +1,9 @@
+except FileNotFoundError:
+
+except PermissionError:
+
+except IsADirectoryError:
+
+except UnicodeDecodeError:
+
+except ValueError:
